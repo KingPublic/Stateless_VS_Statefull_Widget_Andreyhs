@@ -43,4 +43,4 @@ Memahami kapan harus menggunakan `StatelessWidget` dan `StatefulWidget` sangat p
 3. Jalankan perintah `flutter run`.
 4. Coba jalankan kedua versi aplikasi dengan mengaktifkan atau menonaktifkan baris `runApp()` yang sesuai di file `main.dart`.
 
-Selamat mencoba dan semoga sukses dalam mempelajari manajemen state di Flutter!
+Selamat mencoba dan semoga sukses dalam mempelajari manajemen state di Flutter! - Ganbatte😁 by Andrey Hartawan S.
