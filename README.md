@@ -35,7 +35,7 @@ Metode `setState()` memungkinkan kita memperbarui data dan memicu Flutter untuk 
 | **Contoh Kasus**             | Menampilkan teks, ikon, gambar statis | Form input, interaksi pengguna, perubahan data |
 
 ## Kesimpulan
-Memahami kapan harus menggunakan `StatelessWidget` dan `StatefulWidget` sangat penting dalam pengembangan aplikasi Flutter. Gunakan `StatelessWidget` ketika data yang ingin ditampilkan tidak akan berubah. Gunakan `StatefulWidget` jika Anda memerlukan perubahan tampilan yang responsif terhadap interaksi pengguna atau perubahan data.
+Memahami kapan harus menggunakan `StatelessWidget` dan `StatefulWidget` sangat penting dalam pengembangan aplikasi Flutter. Gunakan `StatelessWidget` ketika data yang ingin ditampilkan tidak akan berubah. Gunakan `StatefulWidget` jika memerlukan perubahan tampilan yang responsif terhadap interaksi pengguna atau perubahan data.
 
 ## Cara Menjalankan Aplikasi
 1. Clone repo ini ke komputer Anda.
