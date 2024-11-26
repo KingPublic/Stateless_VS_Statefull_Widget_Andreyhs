@@ -1,6 +1,4 @@
-Berikut adalah contoh file `README.md` yang menjelaskan cara kerja manajemen state menggunakan **StatelessWidget** dan **StatefulWidget** serta skenario penggunaannya:
 
-```markdown
 # Codelabs: Stateful & Stateless Widgets
 
 ## Tujuan
